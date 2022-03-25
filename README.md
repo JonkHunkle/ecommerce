@@ -30,6 +30,8 @@ This is the backend for an online store. You will be able to create a database a
 ## Demonstration Video
 
 [Live Deployment Demenstration](https://drive.google.com/file/d/1G3mIXxfmwst29pLgoBr7XoHAQDkXMVil/view?usp=sharing)
+<br/>
+[ecom](https://imgur.com/Rp6b7KO)
 
       
 ## Questions
